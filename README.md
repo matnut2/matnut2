@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matnut2
-- 👀 I’m interested in various programming languafe
+- 👀 I’m interested in various programming languages
 - 🌱 I’m currently learning Scienze Informatiche (2nd year of 3) in UniPD, Italy
 
 <!---
