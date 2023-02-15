@@ -7,7 +7,7 @@
 
 
 <h3>Actually I'm working on:</h3>
-- 🔭 I’m currently working on [a Operative Research Project](https://github.com/matnut2/ProgettoRO)
+- 🔭 I’m currently working on <a href="https://github.com/matnut2/ProgettoRO"> a Operative Research Project</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
